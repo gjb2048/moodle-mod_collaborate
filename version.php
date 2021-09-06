@@ -17,7 +17,7 @@
 /**
  * Defines the version and other meta-info about the plugin
  *
- * @package    mod_simplemod
+ * @package    mod_collaborate
  * @copyright  2019 Richard Jones richardnz@outlook.com
  * @copyright  2021 G J Barnard.
  * @author     G J Barnard - {@link http://moodle.org/user/profile.php?id=442195}.
@@ -30,8 +30,8 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$plugin->component = 'mod_simplemod';
-$plugin->version = 2021081400;
+$plugin->component = 'mod_collaborate';
+$plugin->version = 2021090600;
 $plugin->requires  = 2021051700.00; // 3.11 (Build: 20210517).
 $plugin->supported = array(311, 311);
 $plugin->release = 'V3.11.1.0';
