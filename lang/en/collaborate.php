@@ -41,7 +41,7 @@ $string['collaboratename'] = 'Name';
 $string['collaboratename_help'] = 'This is the content of the help tooltip associated with the collaboratename field.  Markdown syntax is supported.';
 $string['collaborate'] = 'Collaborate';
 $string['pluginadministration'] = 'Collaborate administration';
-$string['pluginname'] = 'collaborate';
+$string['pluginname'] = 'Collaborate';
 $string['nocollaborates'] = 'No instances';
 
 // Mod form specific collaborate settings.
