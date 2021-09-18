@@ -30,7 +30,7 @@
 defined('MOODLE_INTERNAL') || die();
 
 $plugin->component = 'mod_collaborate';
-$plugin->version = 2021090612;
+$plugin->version = 2021090613;
 $plugin->requires  = 2021051700.00; // 3.11 (Build: 20210517).
 $plugin->supported = array(311, 311);
 $plugin->release = 'V3.11.1.0';
