@@ -27,7 +27,6 @@
         <INDEX NAME="course" UNIQUE="false" FIELDS="course"/>
       </INDEXES>
     </TABLE>
-    </TABLE>
     <TABLE NAME="collaborate_submissions" COMMENT="Student submissions">
       <FIELDS>
         <FIELD NAME="id" TYPE="int" LENGTH="18" NOTNULL="true" SEQUENCE="true"/>
